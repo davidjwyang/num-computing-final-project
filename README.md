@@ -1,6 +1,6 @@
 # num-computing-final-project
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
+<object data="Evaluation of Document Ranking Methods.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Evaluation of Document Ranking Methods.pdf">
     </embed>
 </object>
